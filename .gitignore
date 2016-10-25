@@ -1,0 +1,6 @@
+node_modules
+*/[Ll]ogs/*
+bower_components
+npm_debug
+.DS_Store
+**/.DS_Store
