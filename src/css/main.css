@@ -61,7 +61,7 @@ header {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #f6e380;
+  color: #f2981d;
 }
 .navbar-default .navbar-text {
   color: #ffffff;
@@ -71,12 +71,12 @@ header {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #f6e380;
+  color: #f2981d;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #f6e380;
+  color: #f2981d;
   background-color: #5c5c5c;
 }
 .navbar-default .navbar-nav > .open > a,
@@ -103,7 +103,7 @@ header {
   color: #ffffff;
 }
 .navbar-default .navbar-link:hover {
-  color: #f6e380;
+  color: #f2981d;
 }
 
 @media (max-width: 767px) {
